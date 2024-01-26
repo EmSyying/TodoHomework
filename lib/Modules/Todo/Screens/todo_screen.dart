@@ -242,10 +242,12 @@ class _TodoScreenState extends State<TodoScreen> {
                       TextButton(
                         key: const Key('remove'),
                         onPressed: () {
+                          // repo.todoList.removeWhere((e) => e.id == list.id);
                           repo.onRemove(TodoModel(
                               id: list.id,
                               name: list.name,
                               gender: list.gender));
+                          setState(() {});
                         },
                         child: const Text(
                           'Remove',

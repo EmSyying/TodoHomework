@@ -93,8 +93,8 @@ class Repo {
   // onRemove(TodoModel model) {
   //   todoList.removeWhere((e) => e.id == model.id);
   // }
-  onRemove(TodoModel model) {
-    todoList.remove(model);
+  void onRemove(TodoModel model) {
+    todoList.removeWhere((r) => r.id == model.id);
   }
 
   //filter
