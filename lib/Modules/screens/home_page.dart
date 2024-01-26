@@ -206,37 +206,6 @@ class _HomePagesState extends State<HomePages> {
                     const SizedBox(
                       height: 15,
                     ),
-                    // Row(
-                    //   mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                    //   crossAxisAlignment: CrossAxisAlignment.start,
-                    //   children: [
-                    //     Padding(
-                    //       padding: const EdgeInsets.only(left: 15),
-                    //       child: Text(
-                    //         'Today',
-                    //         style: theme.displayMedium,
-                    //       ),
-                    //     ),
-                    //     GestureDetector(
-                    //       onTap: () {},
-                    //       child: Container(
-                    //         padding: const EdgeInsets.symmetric(
-                    //             vertical: 8, horizontal: 8),
-                    //         margin:
-                    //             const EdgeInsets.only(right: 15, bottom: 20),
-                    //         decoration: BoxDecoration(
-                    //             borderRadius: BorderRadius.circular(10),
-                    //             color: Colors.white),
-                    //         child: Text(
-                    //           'Forcast',
-                    //           style: theme.displaySmall!
-                    //               .copyWith(color: const Color(0xff167FFC)),
-                    //         ),
-                    //       ),
-                    //     )
-                    //   ],
-                    // ),
-
                     Container(
                       margin: const EdgeInsets.only(
                         top: 0,
