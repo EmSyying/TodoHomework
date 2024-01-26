@@ -411,86 +411,10 @@ class _HomePagesState extends State<HomePages> {
                         ],
                       ),
                     ),
-                    // Text(
-                    //   _locationMessage,
-                    //   style: const TextStyle(fontSize: 20.0),
-                    //   textAlign: TextAlign.center,
-                    // ),
-                    // const SizedBox(height: 20.0),
-                    // TextButton(
-                    //   onPressed: _getCurrentLocation,
-                    //   child: Text(
-                    //     'Get Location',
-                    //     style: theme.displayMedium,
-                    //   ),
-                    // ),
                   ],
                 ),
               ),
       ),
-      // Container(
-      //   width: double.infinity,
-      //   height: double.infinity,
-      //   decoration: const BoxDecoration(
-      //       borderRadius: BorderRadius.only(
-      //         topLeft: Radius.circular(20),
-      //         topRight: Radius.circular(20),
-      //       ),
-      //       color: Constants.primaryColor),
-      //   child: Column(
-      //     children: [
-      //       Center(
-      //         child: Container(
-      //           padding: const EdgeInsets.only(top: 40),
-      //           width: 140,
-      //           height: 120,
-      //           child: Image.asset(
-      //             'assets/cloud.png',
-      //             fit: BoxFit.cover,
-      //           ),
-      //         ),
-      //       ),
-      //       const SizedBox(
-      //         height: 20,
-      //       ),
-      //       const Text(
-      //         'Phnom Penh',
-      //         style: TextStyle(
-      //             fontFamily: 'roboto',
-      //             fontSize: 30,
-      //             fontWeight: FontWeight.w700,
-      //             color: Colors.white),
-      //       ),
-      //       const SizedBox(
-      //         height: 20,
-      //       ),
-      //       const Text(
-      //         '29',
-      //         style: TextStyle(
-      //             fontFamily: 'roboto',
-      //             fontSize: 36,
-      //             fontWeight: FontWeight.w800,
-      //             color: Colors.white),
-      //       ),
-      //       const SizedBox(
-      //         height: 20,
-      //       ),
-      //       Expanded(
-      //           child: Container(
-      //         width: double.infinity,
-      //         decoration: BoxDecoration(
-      //             border: Border.all(
-      //               width: 1, //
-      //               color: Colors.white,
-      //             ),
-      //             borderRadius: const BorderRadius.only(
-      //                 topLeft: Radius.circular(20),
-      //                 topRight: Radius.circular(20)),
-      //             color: Colors.black12),
-      //       ))
-      //     ],
-      //   ),
-      // ),
     );
   }
 }
