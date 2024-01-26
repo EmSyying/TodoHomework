@@ -1,6 +1,6 @@
 # TodoHomework
 Welcome to the repository for the Flutter Todo homework. This repository contains the source code for unit testing and integraction testing in Flutter.
-# Note: TodoApp my project at branch dev
+# Note: TodoApp project at branch dev
 Todo homework [lib/Modules/Todo/Screens](https://github.com/EmSyying/TodoHomework/blob/dev/lib/Modules/Todo/Screens/todo_screen.dart)
 - Add item to list
 - Edit item
