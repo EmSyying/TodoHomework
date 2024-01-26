@@ -8,4 +8,4 @@ Todo homework [lib/Modules/Todo/Screens](https://github.com/EmSyying/TodoHomewor
 # Unit Test
 Add edit remove [test/unit_test.dart](https://github.com/EmSyying/TodoHomework/blob/dev/test/unit_test.dart)
 # Integraction test:
-Add edit remove and push to weather screen [intergration_test/integration_test.dart](https://github.com/EmSyying/TodoHomework/blob/dev/intergration_test/integration_test.dart)
+Add edit remove and redirect to weather screen [intergration_test/integration_test.dart](https://github.com/EmSyying/TodoHomework/blob/dev/intergration_test/integration_test.dart)
