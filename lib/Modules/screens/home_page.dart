@@ -131,7 +131,6 @@ class _HomePagesState extends State<HomePages> {
                         ),
                       ],
                     ),
-
                     Row(
                       mainAxisAlignment: MainAxisAlignment.spaceAround,
                       children: [
